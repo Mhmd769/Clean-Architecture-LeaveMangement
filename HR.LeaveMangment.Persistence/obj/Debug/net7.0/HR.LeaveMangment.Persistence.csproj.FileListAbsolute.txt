@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\bin\Debug\net7.0\HR.LeaveMangment.Persistence.deps.json
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\bin\Debug\net7.0\HR.LeaveMangment.Persistence.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\bin\Debug\net7.0\HR.LeaveMangment.Persistence.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\bin\Debug\net7.0\HR.LeaveMangement.Application.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\bin\Debug\net7.0\HR.LeaveMangement.Domain.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\bin\Debug\net7.0\HR.LeaveMangement.Application.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\bin\Debug\net7.0\HR.LeaveMangement.Domain.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\obj\Debug\net7.0\HR.LeaveMangment.Persistence.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\obj\Debug\net7.0\HR.LeaveMangment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\obj\Debug\net7.0\HR.LeaveMangment.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\obj\Debug\net7.0\HR.LeaveMangment.Persistence.AssemblyInfo.cs
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\obj\Debug\net7.0\HR.LeaveMangment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\obj\Debug\net7.0\HR.LeaveMangment.Persistence.csproj.CopyComplete
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\obj\Debug\net7.0\HR.LeaveMangment.Persistence.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\obj\Debug\net7.0\refint\HR.LeaveMangment.Persistence.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\obj\Debug\net7.0\HR.LeaveMangment.Persistence.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangment.Persistence\obj\Debug\net7.0\ref\HR.LeaveMangment.Persistence.dll

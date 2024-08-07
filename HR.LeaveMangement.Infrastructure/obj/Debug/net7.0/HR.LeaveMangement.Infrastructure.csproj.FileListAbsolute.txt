@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\bin\Debug\net7.0\HR.LeaveMangement.Infrastructure.deps.json
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\bin\Debug\net7.0\HR.LeaveMangement.Infrastructure.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\bin\Debug\net7.0\HR.LeaveMangement.Infrastructure.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\bin\Debug\net7.0\HR.LeaveMangement.Application.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\bin\Debug\net7.0\HR.LeaveMangement.Domain.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\bin\Debug\net7.0\HR.LeaveMangement.Application.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\bin\Debug\net7.0\HR.LeaveMangement.Domain.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\obj\Debug\net7.0\HR.LeaveMangement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\obj\Debug\net7.0\HR.LeaveMangement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\obj\Debug\net7.0\HR.LeaveMangement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\obj\Debug\net7.0\HR.LeaveMangement.Infrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\obj\Debug\net7.0\HR.LeaveMangement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\obj\Debug\net7.0\HR.LeaveMangement.Infrastructure.csproj.CopyComplete
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\obj\Debug\net7.0\HR.LeaveMangement.Infrastructure.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\obj\Debug\net7.0\refint\HR.LeaveMangement.Infrastructure.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\obj\Debug\net7.0\HR.LeaveMangement.Infrastructure.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Infrastructure\obj\Debug\net7.0\ref\HR.LeaveMangement.Infrastructure.dll

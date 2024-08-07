@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\bin\Debug\net7.0\HR.LeaveMangement.Application.deps.json
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\bin\Debug\net7.0\HR.LeaveMangement.Application.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\bin\Debug\net7.0\HR.LeaveMangement.Application.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\bin\Debug\net7.0\HR.LeaveMangement.Domain.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\bin\Debug\net7.0\HR.LeaveMangement.Domain.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\obj\Debug\net7.0\HR.LeaveMangement.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\obj\Debug\net7.0\HR.LeaveMangement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\obj\Debug\net7.0\HR.LeaveMangement.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\obj\Debug\net7.0\HR.LeaveMangement.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\obj\Debug\net7.0\HR.LeaveMangement.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\obj\Debug\net7.0\HR.LeaveMangement.Application.csproj.CopyComplete
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\obj\Debug\net7.0\HR.LeaveMangement.Application.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\obj\Debug\net7.0\refint\HR.LeaveMangement.Application.dll
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\obj\Debug\net7.0\HR.LeaveMangement.Application.pdb
+C:\Users\user\source\repos\HR.LeaveMangement.clean\HR.LeaveMangement.Application\obj\Debug\net7.0\ref\HR.LeaveMangement.Application.dll
